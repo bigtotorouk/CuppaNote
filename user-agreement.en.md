@@ -2,9 +2,9 @@
 
 Version: 1.0 Draft  
 Last updated: October 5, 2026  
-Effective date: [TO BE COMPLETED]  
-Operator: [Legal name of the company or individual operating the app]  
-Contact email: [Support email]
+Effective date: October 5, 2026  
+Operator: bing.xiao
+Contact email: bigtotorouk@gmail.com
 
 ## 1. Scope
 
@@ -66,4 +66,4 @@ We will communicate material changes to these Terms through an in-app notice or 
 
 ## 11. Disputes and Contact
 
-Please contact [Support email] first so that we can try to resolve any dispute. If it cannot be resolved, you may seek relief from a court or another dispute resolution body with lawful jurisdiction. These Terms do not remove protections provided by mandatory laws applicable where you live.
+Please contact [Support email](bigtotorouk@gmail.com) first so that we can try to resolve any dispute. If it cannot be resolved, you may seek relief from a court or another dispute resolution body with lawful jurisdiction. These Terms do not remove protections provided by mandatory laws applicable where you live.
